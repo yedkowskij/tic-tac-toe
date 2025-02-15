@@ -1,0 +1,3 @@
+pip install tabulate[widechars]
+pip install pyfiglet
+pip install pytest
